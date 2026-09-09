@@ -1,0 +1,11 @@
+{
+  "name": "Sistem Absensi Digital Siswa (Gate QR & Manual)",
+  "description": "Sistem web absensi sekolah modern dengan scan QR kartu pelajar di gerbang, form absensi manual, verifikasi petugas OSIS, notifikasi WhatsApp wali murid, dan rekapitulasi kehadiran real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
